@@ -1,4 +1,5 @@
 🍕 Pizzaria.py - HudsonDev-Hub
+
 Um sistema em Python para gerenciar pizzaria, focado em boas práticas de POO e integração com banco de dados PostgreSQL.
 
 📌 Descrição
